@@ -6,6 +6,8 @@ Projeto foi elaborado para conclusão da disciplina introdutória de *Python par
 
 ![Recife Traffic](https://img.shields.io/badge/Cidade-Recife-green) ![Ano-2022](https://img.shields.io/badge/Ano-2022-blue) ![Base de Dados](https://img.shields.io/badge/Base%20de%20Dados-Prefeitura%20de%20Recife-orange)
 
+[Baixe a base de dados aqui](http://dados.recife.pe.gov.br/dataset/acidentes-de-transito-com-e-sem-vitimas/resource/971e0228-fa9c-4a42-b360-c842b29d2f56)
+
 Este repositório contém uma análise descritiva dos acidentes de trânsito ocorridos em Recife no ano de 2022. A base de dados utilizada foi coletada a partir dos registros da Companhia de Trânsito e Transporte Urbano (CTTU) e está disponível no Portal de Dados Abertos da Prefeitura de Recife.
 
 ## 📊 Objetivo
